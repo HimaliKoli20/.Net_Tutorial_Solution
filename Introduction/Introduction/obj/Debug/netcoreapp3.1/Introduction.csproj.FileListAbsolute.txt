@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\DELL\Desktop\Git Practice\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.genruntimeconfig.cache
