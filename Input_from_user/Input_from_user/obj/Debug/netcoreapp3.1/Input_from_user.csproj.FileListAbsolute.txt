@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\bin\Debug\netcoreapp3.1\Input_from_user.exe
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\bin\Debug\netcoreapp3.1\Input_from_user.deps.json
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\bin\Debug\netcoreapp3.1\Input_from_user.runtimeconfig.json
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\bin\Debug\netcoreapp3.1\Input_from_user.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\bin\Debug\netcoreapp3.1\Input_from_user.dll
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\bin\Debug\netcoreapp3.1\Input_from_user.pdb
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.dll
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.pdb
+C:\Users\DELL\source\repos\Input_from_user\Input_from_user\obj\Debug\netcoreapp3.1\Input_from_user.genruntimeconfig.cache
