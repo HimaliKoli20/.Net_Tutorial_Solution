@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\bin\Debug\netcoreapp3.1\Switch_statement.exe
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\bin\Debug\netcoreapp3.1\Switch_statement.deps.json
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\bin\Debug\netcoreapp3.1\Switch_statement.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\bin\Debug\netcoreapp3.1\Switch_statement.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\bin\Debug\netcoreapp3.1\Switch_statement.dll
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\bin\Debug\netcoreapp3.1\Switch_statement.pdb
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.dll
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.pdb
+C:\Users\DELL\Desktop\Git Practice\Switch_statement\Switch_statement\obj\Debug\netcoreapp3.1\Switch_statement.genruntimeconfig.cache
