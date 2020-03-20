@@ -31,8 +31,8 @@ namespace Polymorphism
             Bollywood[] films = new Bollywood[3];
 
             films[0] = new Bollywood();
-            films[1] = new Comedy_movie();
-            films[2] = new Action_film();
+            films[1] = new Action_film();
+            films[2] = new Comedy_movie();
 
             foreach(Bollywood i in films)
             {
