@@ -1,0 +1,14 @@
+
+Alter Table tblPerson
+Add Constraint UK_tblPerson_Email Unique(Email)
+
+Insert Into tblPerson 
+Values (10, 'Marcus' , 'mark@gmail.com', 1 , 25)
+
+Insert Into tblPerson 
+Values (11, 'Mark' , 'mark@gmail.com', 1 , 25)
+
+
+
+Alter Table tblPerson
+Drop Constraint UK_tblPerson_Email 

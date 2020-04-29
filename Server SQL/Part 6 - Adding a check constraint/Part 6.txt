@@ -1,0 +1,51 @@
+Part 6
+
+Alter Table tblPerson
+Add  Age int
+
+
+Update tblPerson
+Set Age = 55
+Where ID = 1
+
+Update tblPerson
+Set Age = 26
+Where ID = 2
+
+Update tblPerson
+Set Age = 24
+Where ID = 3
+
+Update tblPerson
+Set Age = 30
+Where ID = 4
+
+Update tblPerson
+Set Age =  28
+Where ID = 5
+
+Update tblPerson
+Set Age = 33
+Where ID = 6
+
+Update tblPerson
+Set Age =  28
+Where ID = 7
+
+Update tblPerson
+Set Age = Null
+Where ID = 8
+
+Update tblPerson
+Set Age = Null
+Where ID = 9
+
+
+ALTER TABLE tblPerson
+ADD CONSTRAINT CK_tblPerson_Age CHECK (Age > 0 AND Age < 150)
+
+
+
+Update tblPerson
+Set Age = 999
+Where ID = 8

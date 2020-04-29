@@ -1,0 +1,7 @@
+Creating altering and dropping a database - Part 2
+
+Create Database Sample1
+
+Alter Database Sample1 Modify Name = Sample2
+
+Drop Database Sample2

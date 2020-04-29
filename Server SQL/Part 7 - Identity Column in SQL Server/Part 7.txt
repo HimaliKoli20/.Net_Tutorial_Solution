@@ -1,0 +1,34 @@
+
+Select * from Student
+
+Create Table Student
+(
+ID int Not null Primary Key Identity(1,1),
+[Name] nvarchar(20) Not null
+)
+
+Insert Into Student([Name])
+Values('Richa')
+Insert Into Student([Name])
+Values('Vihaan')
+
+
+Insert Into Student (ID ,[Name])
+Values(3, 'Isha')
+
+
+SET IDENTITY_INSERT Student ON
+
+SET IDENTITY_INSERT Student OFF
+
+
+
+
+
+
+
+
+
+
+
+

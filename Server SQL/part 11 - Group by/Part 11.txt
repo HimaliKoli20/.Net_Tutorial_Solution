@@ -1,0 +1,11 @@
+Select * from tblPerson
+
+Select Gender , City , SUM(Salary) as TotalSalary 
+From tblPerson
+Group by Gender, City
+
+Select City, SUM(Salary) as TotalSalary
+from tblPerson
+Where Gender = 'Male'
+Group by City
+Having City = 'London'
