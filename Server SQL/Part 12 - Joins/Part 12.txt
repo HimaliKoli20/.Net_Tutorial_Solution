@@ -1,0 +1,35 @@
+
+Select * From tblEmployee
+
+Select * From tblDepartment
+
+
+--INNER JOIN 
+
+SELECT Name, Gender, Salary, DepartmentName
+FROM tblEmployee
+INNER JOIN tblDepartment
+ON tblEmployee.DepartmentId = tblDepartment.Id
+
+--Left JOIN 
+
+SELECT Name, Gender, Salary, DepartmentName
+FROM tblEmployee
+LEFT JOIN tblDepartment
+ON tblEmployee.DepartmentId = tblDepartment.Id
+
+
+--Right JOIN 
+
+SELECT Name, Gender, Salary, DepartmentName
+FROM tblEmployee
+RIGHT JOIN tblDepartment
+ON tblEmployee.DepartmentId = tblDepartment.Id
+
+
+--FULL JOIN
+
+SELECT Name, Gender, Salary, DepartmentName
+FROM tblEmployee
+FULL JOIN tblDepartment
+ON tblEmployee.DepartmentId = tblDepartment.Id
