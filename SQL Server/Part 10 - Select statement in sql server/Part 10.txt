@@ -1,0 +1,22 @@
+
+Select * from tblPerson
+
+Select Distinct Age From tblPerson
+
+Select * from tblPerson where Age = 28
+
+Select * from tblPerson where Name != 'Rosa Diaz'
+
+Select * from tblPerson where Name LIKE 'A%'
+
+Select * from tblPerson where Age In (21 , 24 , 26)
+
+Select * from tblPerson where Age Between 50 and 60
+
+Select * from tblPerson where Email Like '____@%'
+
+Select * from tblPerson where Name LIKE '[Ja]%'
+
+Select * from tblPerson where Name LIKE '[^RSHJK]%'
+
+

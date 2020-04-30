@@ -1,0 +1,6 @@
+
+Select SCOPE_IDENTITY()
+
+Select @@IDENTITY
+
+Select IDENT_CURRENT('Student')

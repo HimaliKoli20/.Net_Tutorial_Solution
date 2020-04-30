@@ -1,0 +1,15 @@
+Select * from tblPerson
+Select * from tblGender
+
+ALTER TABLE tblPerson
+ADD CONSTRAINT DF_tblPerson
+DEFAULT 3 FOR Gender
+
+
+ALTER TABLE tblPerson
+DROP CONSTRAINT DF_tblPerson
+
+Insert Into tblPerson(ID, [Name] , Email )
+Values(8 , 'Scully', 'scully@gmail.com')
+Insert Into tblPerson(ID, [Name] , Email , Gender)
+Values(9 , 'Hitchcock', 'hitchcock@gmail.com', NULL)

@@ -1,0 +1,29 @@
+
+Select * From tblEmployee
+
+--Replacing NULL value using ISNULL() function
+
+SELECT E.Name as Employee, ISNULL(M.Name,'No Manager') as Manager
+FROM   tblEmployee E
+LEFT JOIN tblEmployee M
+ON     E.ManagerID = M.EmployeeID
+
+
+--Replacing NULL value using CASE Statement
+
+SELECT E.Name as Employee,
+        CASE 
+			WHEN M.Name IS NULL THEN 'No Manager'  ELSE M.Name 
+		END
+	    as Manager
+FROM   tblEmployee E
+LEFT JOIN tblEmployee M
+ON     E.ManagerID = M.EmployeeID
+
+
+--Replacing NULL value using COALESCE() function 
+
+SELECT E.Name as Employee, COALESCE(M.Name, 'No Manager') as Manager
+FROM   tblEmployee E
+LEFT JOIN tblEmployee M
+ON     E.ManagerID = M.EmployeeID

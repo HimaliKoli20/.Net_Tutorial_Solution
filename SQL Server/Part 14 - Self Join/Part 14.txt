@@ -1,0 +1,37 @@
+
+Create table tblEmployee
+(
+     EmployeeID int ,
+     [Name] nvarchar(50),
+     ManagerID int
+)
+
+Insert into tblEmployee values (1, 'Tom',  3)
+Insert into tblEmployee values (2, 'Eva',  1)
+Insert into tblEmployee values (3, 'John', Null)
+Insert into tblEmployee values (4, 'Sam',  1)
+Insert into tblEmployee values (5, 'Todd', 1)
+
+
+
+Select * From tblEmployee
+
+--Inner Self Join tblEmployee table
+Select E.Name as Employee, M.Name as Manager
+from tblEmployee E
+Inner Join tblEmployee M
+On E.ManagerId = M.EmployeeId
+
+
+--Left Self Join tblEmployee table
+
+Select E.Name as Employee, M.Name as Manager
+from tblEmployee E
+Left Join tblEmployee M
+On E.ManagerId = M.EmployeeId
+
+--Cross Self Join tblEmployee table:
+
+Select E.Name as Employee, M.Name as Manager
+from tblEmployee E
+Cross Join tblEmployee M
