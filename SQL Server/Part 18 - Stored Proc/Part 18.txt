@@ -1,0 +1,22 @@
+
+
+Select * From tblEmployee
+
+Create Procedure SP_GetEmployeesByGenderAndDepartment 
+@Gender nvarchar(50),
+@DepartmentId int
+as
+Begin
+  Select Name, Gender from tblEmployee Where Gender = @Gender and DepartmentId = @DepartmentId
+End
+
+Execute SP_GetEmployeesByGenderAndDepartment 'Female', 3
+
+
+Alter Procedure SP_GetEmployeesByGenderAndDepartment 
+@Gender nvarchar(50),
+@DepartmentId int
+as
+Begin
+  Select Name, Gender from tblEmployee Where Gender = @Gender and DepartmentId = @DepartmentId Order By Name
+End

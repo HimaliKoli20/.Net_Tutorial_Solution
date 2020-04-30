@@ -1,0 +1,22 @@
+Create Procedure SP_GetEmployeeCountByGender
+@Gender nvarchar(20),
+@EmployeeCount int Output
+as
+Begin
+ Select @EmployeeCount = COUNT(Id) 
+ from tblEmployee 
+ where Gender = @Gender
+End
+
+
+
+Declare @EmployeeTotal int
+Execute SP_GetEmployeeCountByGender 'Female' , @EmployeeTotal output
+Print @EmployeeTotal
+
+Declare @EmployeeTotal int
+Execute SP_GetEmployeeCountByGender 'Female', @EmployeeTotal
+if(@EmployeeTotal is null)
+ Print '@EmployeeTotal is null'
+else
+ Print '@EmployeeTotal is not null'
