@@ -1,0 +1,23 @@
+
+
+--Transaction 1
+
+Create table tblInventory
+(
+    Id int identity primary key,
+    Product nvarchar(100),
+    ItemsInStock int
+)
+Go
+
+Insert into tblInventory values ('iPhone', 10)
+
+
+
+--Transaction 2
+
+Select *From tblInventory
+
+
+Set Transaction Isolation Level Read Uncommitted
+Select * from tblInventory where Id=1

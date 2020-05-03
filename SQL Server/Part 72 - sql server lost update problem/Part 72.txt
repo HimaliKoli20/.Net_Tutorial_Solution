@@ -1,0 +1,44 @@
+--Transaction 1
+
+Begin Tran
+Declare @ItemsInStock int
+
+Select @ItemsInStock = ItemsInStock
+from tblInventory where Id=1
+
+-- Transaction takes 10 seconds
+Waitfor Delay '00:00:10'
+Set @ItemsInStock = @ItemsInStock - 1
+
+Update tblInventory
+Set ItemsInStock = @ItemsInStock where Id=1
+
+Print @ItemsInStock
+
+Commit Transaction
+
+
+
+
+
+
+--Transaction 2
+
+Set Transaction Isolation Level Repeatable Read
+
+Begin Tran
+Declare @ItemsInStock int
+
+Select @ItemsInStock = ItemsInStock
+from tblInventory where Id=1
+
+-- Transaction takes 10 seconds
+Waitfor Delay '00:00:1'
+Set @ItemsInStock = @ItemsInStock - 2
+
+Update tblInventory
+Set ItemsInStock = @ItemsInStock where Id=1
+
+Print @ItemsInStock
+
+Commit Transaction
