@@ -1,0 +1,4 @@
+
+*******Ignore this!********
+
+This is blank text file to init git.
