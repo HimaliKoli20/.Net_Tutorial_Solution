@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\netcoreapp3.1\Multicast_Delegates.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\netcoreapp3.1\Multicast_Delegates.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\netcoreapp3.1\Multicast_Delegates.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\netcoreapp3.1\Multicast_Delegates.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\netcoreapp3.1\Multicast_Delegates.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\netcoreapp3.1\Multicast_Delegates.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\netcoreapp3.1\Multicast_Delegates.genruntimeconfig.cache
