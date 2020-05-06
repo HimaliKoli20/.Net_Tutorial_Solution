@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\bin\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\bin\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\bin\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\bin\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\bin\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\bin\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Preventing_Exception_Handling_Abuse\Preventing_Exception_Handling_Abuse\obj\Debug\netcoreapp3.1\Preventing_Exception_Handling_Abuse.genruntimeconfig.cache
