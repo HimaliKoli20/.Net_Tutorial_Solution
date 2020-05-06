@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\bin\Debug\netcoreapp3.1\Inner_Exception.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\bin\Debug\netcoreapp3.1\Inner_Exception.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\bin\Debug\netcoreapp3.1\Inner_Exception.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\bin\Debug\netcoreapp3.1\Inner_Exception.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\bin\Debug\netcoreapp3.1\Inner_Exception.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\bin\Debug\netcoreapp3.1\Inner_Exception.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Inner_Exception\Inner_Exception\obj\Debug\netcoreapp3.1\Inner_Exception.genruntimeconfig.cache
