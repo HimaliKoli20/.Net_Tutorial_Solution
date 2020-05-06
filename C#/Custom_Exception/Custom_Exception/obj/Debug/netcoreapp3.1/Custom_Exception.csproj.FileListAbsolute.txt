@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\bin\Debug\netcoreapp3.1\Custom_Exception.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\bin\Debug\netcoreapp3.1\Custom_Exception.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\bin\Debug\netcoreapp3.1\Custom_Exception.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\bin\Debug\netcoreapp3.1\Custom_Exception.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\bin\Debug\netcoreapp3.1\Custom_Exception.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\bin\Debug\netcoreapp3.1\Custom_Exception.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Custom_Exception\Custom_Exception\obj\Debug\netcoreapp3.1\Custom_Exception.genruntimeconfig.cache
