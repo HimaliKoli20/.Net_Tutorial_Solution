@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\bin\Debug\netcoreapp3.1\PartialMethod.exe
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\bin\Debug\netcoreapp3.1\PartialMethod.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\bin\Debug\netcoreapp3.1\PartialMethod.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\bin\Debug\netcoreapp3.1\PartialMethod.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\bin\Debug\netcoreapp3.1\PartialMethod.dll
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\bin\Debug\netcoreapp3.1\PartialMethod.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.dll
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\PartialMethod\PartialMethod\obj\Debug\netcoreapp3.1\PartialMethod.genruntimeconfig.cache
