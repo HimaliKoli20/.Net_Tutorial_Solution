@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Web;
 using System.Web.ModelBinding;
 
@@ -40,7 +41,25 @@ namespace Indexers
                 ListOfEmployees.FirstOrDefault(emp => emp.ID == Id).Name = value;
             }
         }
-            
+
+        public int this[string Gender]
+        {
+            get
+            {
+                return ListOfEmployees.Count(emp => emp.Gender == Gender);
+            }
+            set
+            {
+                foreach(Employee employee in ListOfEmployees)
+                {
+                    if(employee.Gender == Gender)
+                    {
+                        int Count = value;
+                    }
+                }
+            }
+        }
+
 
     }
 }

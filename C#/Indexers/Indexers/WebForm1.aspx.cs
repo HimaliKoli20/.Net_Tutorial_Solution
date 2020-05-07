@@ -14,6 +14,8 @@ namespace Indexers
             Company company = new Company();
 
             Response.Write("Name of Employee with Id = 3: " + company[3]);
+            Response.Write("<br>");
+            Response.Write("Total Male Employee = " + company["Male"]);
         }
     }
 }
