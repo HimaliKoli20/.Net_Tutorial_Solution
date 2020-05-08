@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.exe
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.dll
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.dll
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.genruntimeconfig.cache
