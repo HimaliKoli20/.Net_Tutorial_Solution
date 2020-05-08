@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\bin\Debug\netcoreapp3.1\ListCollectionClass.exe
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\bin\Debug\netcoreapp3.1\ListCollectionClass.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\bin\Debug\netcoreapp3.1\ListCollectionClass.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\bin\Debug\netcoreapp3.1\ListCollectionClass.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\bin\Debug\netcoreapp3.1\ListCollectionClass.dll
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\bin\Debug\netcoreapp3.1\ListCollectionClass.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\obj\Debug\netcoreapp3.1\ListCollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\obj\Debug\netcoreapp3.1\ListCollectionClass.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\obj\Debug\netcoreapp3.1\ListCollectionClass.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\obj\Debug\netcoreapp3.1\ListCollectionClass.dll
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\obj\Debug\netcoreapp3.1\ListCollectionClass.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\ListCollectionClass\ListCollectionClass\obj\Debug\netcoreapp3.1\ListCollectionClass.genruntimeconfig.cache
