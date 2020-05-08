@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\bin\Debug\netcoreapp3.1\Sort_a_list.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\bin\Debug\netcoreapp3.1\Sort_a_list.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\bin\Debug\netcoreapp3.1\Sort_a_list.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\bin\Debug\netcoreapp3.1\Sort_a_list.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\bin\Debug\netcoreapp3.1\Sort_a_list.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\bin\Debug\netcoreapp3.1\Sort_a_list.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\obj\Debug\netcoreapp3.1\Sort_a_list.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\obj\Debug\netcoreapp3.1\Sort_a_list.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\obj\Debug\netcoreapp3.1\Sort_a_list.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\obj\Debug\netcoreapp3.1\Sort_a_list.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\obj\Debug\netcoreapp3.1\Sort_a_list.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Sort_a_list\Sort_a_list\obj\Debug\netcoreapp3.1\Sort_a_list.genruntimeconfig.cache
