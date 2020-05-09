@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\bin\Debug\netcoreapp3.1\Generic Stack collection class.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\bin\Debug\netcoreapp3.1\Generic Stack collection class.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\bin\Debug\netcoreapp3.1\Generic Stack collection class.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\bin\Debug\netcoreapp3.1\Generic Stack collection class.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\bin\Debug\netcoreapp3.1\Generic Stack collection class.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\bin\Debug\netcoreapp3.1\Generic Stack collection class.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Stack collection class\Generic Stack collection class\obj\Debug\netcoreapp3.1\Generic Stack collection class.genruntimeconfig.cache
