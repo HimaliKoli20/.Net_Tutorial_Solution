@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\bin\Debug\netcoreapp3.1\Complex_type_list_sorting.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\bin\Debug\netcoreapp3.1\Complex_type_list_sorting.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\bin\Debug\netcoreapp3.1\Complex_type_list_sorting.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\bin\Debug\netcoreapp3.1\Complex_type_list_sorting.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\bin\Debug\netcoreapp3.1\Complex_type_list_sorting.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\bin\Debug\netcoreapp3.1\Complex_type_list_sorting.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Complex_type_list_sorting\Complex_type_list_sorting\obj\Debug\netcoreapp3.1\Complex_type_list_sorting.genruntimeconfig.cache
