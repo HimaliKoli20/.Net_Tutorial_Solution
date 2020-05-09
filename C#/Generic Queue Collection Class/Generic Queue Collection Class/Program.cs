@@ -52,7 +52,7 @@ namespace Generic_Queue_Collection_Class
             //Part 2
             Customer c1 = queuecustomers.Peek();    //Returns value without removing it and always return 1st value in the queue
             Console.WriteLine(c1.Id + "-" + c1.Name);
-            //Paer 3
+            //Part 3
             Console.WriteLine("Total items in Queue  : {0}", queuecustomers.Count);
             Customer c2 = queuecustomers.Dequeue();  //Returns value after removing it
             Console.WriteLine(c2.Id + "-" + c2.Name);
