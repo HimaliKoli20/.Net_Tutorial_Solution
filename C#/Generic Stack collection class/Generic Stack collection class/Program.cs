@@ -48,7 +48,7 @@ namespace Generic_Queue_Collection_Class
             stackCustomer.Push(customer4);
             stackCustomer.Push(customer5);
             //Part 1
-            /*foreach (Customer c in stackCustomer)
+            foreach (Customer c in stackCustomer)
             {
                 Console.WriteLine(c.Id + "-" + c.Name);
             }
@@ -58,7 +58,7 @@ namespace Generic_Queue_Collection_Class
             Customer c1 = stackCustomer.Pop();                  //Remove and retirn the vlaue
             Console.WriteLine(c1.Id + "-" + c1.Name);
             Console.WriteLine("Total items left in the stack : {0}", stackCustomer.Count);
-            */
+            
 
             //Part 3
             Customer c2 = stackCustomer.Peek();    //Returns value without removing it and always return 1st value in the queue
@@ -71,23 +71,7 @@ namespace Generic_Queue_Collection_Class
 
 
 
-            /*          
-          
-            //Part 2
-            Customer c1 = queuecustomers.Peek();    //Returns value without removing it and always return 1st value in the queue
-            Console.WriteLine(c1.Id + "-" + c1.Name);
-            //Part 3
             
-
-            //Part 4
-            if (queuecustomers.Contains(customer3))
-            {
-                Console.WriteLine("customer3 exists ");
-            }
-            else
-            {
-                Console.WriteLine("customer3 does not exists");
-            }*/
         }
     }
 
