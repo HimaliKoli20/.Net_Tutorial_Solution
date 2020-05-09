@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\bin\Debug\netcoreapp3.1\Generic Queue Collection Class.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\bin\Debug\netcoreapp3.1\Generic Queue Collection Class.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\bin\Debug\netcoreapp3.1\Generic Queue Collection Class.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\bin\Debug\netcoreapp3.1\Generic Queue Collection Class.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\bin\Debug\netcoreapp3.1\Generic Queue Collection Class.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\bin\Debug\netcoreapp3.1\Generic Queue Collection Class.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Generic Queue Collection Class\Generic Queue Collection Class\obj\Debug\netcoreapp3.1\Generic Queue Collection Class.genruntimeconfig.cache
