@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\_Multithreading.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\ThreadingExample.Form1.resources
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\_Multithreading.Properties.Resources.resources
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\_Multithreading.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\_Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\bin\Debug\_Multithreading.exe.config
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\bin\Debug\_Multithreading.exe
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\bin\Debug\_Multithreading.pdb
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\_Multithreading.exe
+C:\Users\DELL\source\repos\_Multithreading\_Multithreading\obj\Debug\_Multithreading.pdb
