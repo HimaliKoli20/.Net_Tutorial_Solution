@@ -16,7 +16,9 @@ namespace ThreadingExample
             btnTimeConsumingWork.Enabled = false;
             btnPrintNumbers.Enabled = false;
 
-            DoTimeConsumingWork();
+            //DoTimeConsumingWork();
+            Thread workerthread = new Thread(DoTimeConsumingWork);
+            workerthread.Start();
 
             btnTimeConsumingWork.Enabled = true;
             btnPrintNumbers.Enabled = true;
