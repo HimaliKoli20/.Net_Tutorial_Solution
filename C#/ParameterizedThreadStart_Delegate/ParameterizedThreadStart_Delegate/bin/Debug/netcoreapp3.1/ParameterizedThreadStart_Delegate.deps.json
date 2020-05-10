@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ParameterizedThreadStart_Delegate/1.0.0": {
+        "runtime": {
+          "ParameterizedThreadStart_Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParameterizedThreadStart_Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.exe
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.dll
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.dll
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\ParameterizedThreadStart_Delegate\ParameterizedThreadStart_Delegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStart_Delegate.genruntimeconfig.cache
