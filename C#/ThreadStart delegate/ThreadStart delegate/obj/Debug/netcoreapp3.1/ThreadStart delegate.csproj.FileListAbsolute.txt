@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\bin\Debug\netcoreapp3.1\ThreadStart delegate.exe
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\bin\Debug\netcoreapp3.1\ThreadStart delegate.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\bin\Debug\netcoreapp3.1\ThreadStart delegate.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\bin\Debug\netcoreapp3.1\ThreadStart delegate.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\bin\Debug\netcoreapp3.1\ThreadStart delegate.dll
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\bin\Debug\netcoreapp3.1\ThreadStart delegate.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.dll
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\ThreadStart delegate\ThreadStart delegate\obj\Debug\netcoreapp3.1\ThreadStart delegate.genruntimeconfig.cache
