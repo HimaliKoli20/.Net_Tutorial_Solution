@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\bin\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.exe
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\bin\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\bin\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\bin\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\bin\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.dll
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\bin\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.dll
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\PassingData_to_the_ThreadFunction\PassingData_to_the_ThreadFunction\obj\Debug\netcoreapp3.1\PassingData_to_the_ThreadFunction.genruntimeconfig.cache
