@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\bin\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.exe
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\bin\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\bin\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\bin\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\bin\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.dll
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\bin\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.dll
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\RetrivingData_using_CallBack_method\RetrivingData_using_CallBack_method\obj\Debug\netcoreapp3.1\RetrivingData_using_CallBack_method.genruntimeconfig.cache
