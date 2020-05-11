@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.Form1.resources
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.Properties.Resources.resources
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\bin\Debug\Asyn_And_Wait.exe.config
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\bin\Debug\Asyn_And_Wait.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\bin\Debug\Asyn_And_Wait.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Asyn_And_Wait\Asyn_And_Wait\obj\Debug\Asyn_And_Wait.pdb
