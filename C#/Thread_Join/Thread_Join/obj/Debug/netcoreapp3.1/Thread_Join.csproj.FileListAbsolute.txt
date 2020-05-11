@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\bin\Debug\netcoreapp3.1\Thread_Join.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\bin\Debug\netcoreapp3.1\Thread_Join.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\bin\Debug\netcoreapp3.1\Thread_Join.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\bin\Debug\netcoreapp3.1\Thread_Join.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\bin\Debug\netcoreapp3.1\Thread_Join.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\bin\Debug\netcoreapp3.1\Thread_Join.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Thread_Join\Thread_Join\obj\Debug\netcoreapp3.1\Thread_Join.genruntimeconfig.cache
