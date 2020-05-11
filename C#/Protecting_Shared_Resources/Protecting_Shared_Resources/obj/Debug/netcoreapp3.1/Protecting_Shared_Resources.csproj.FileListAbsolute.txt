@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\bin\Debug\netcoreapp3.1\Protecting_Shared_Resources.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\bin\Debug\netcoreapp3.1\Protecting_Shared_Resources.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\bin\Debug\netcoreapp3.1\Protecting_Shared_Resources.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\bin\Debug\netcoreapp3.1\Protecting_Shared_Resources.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\bin\Debug\netcoreapp3.1\Protecting_Shared_Resources.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\bin\Debug\netcoreapp3.1\Protecting_Shared_Resources.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Protecting_Shared_Resources\Protecting_Shared_Resources\obj\Debug\netcoreapp3.1\Protecting_Shared_Resources.genruntimeconfig.cache

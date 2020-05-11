@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Protecting_Shared_Resources/1.0.0": {
+        "runtime": {
+          "Protecting_Shared_Resources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Protecting_Shared_Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
