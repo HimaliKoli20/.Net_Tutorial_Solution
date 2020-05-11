@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\bin\Debug\netcoreapp3.1\Func_Delegate.exe
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\bin\Debug\netcoreapp3.1\Func_Delegate.deps.json
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\bin\Debug\netcoreapp3.1\Func_Delegate.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\bin\Debug\netcoreapp3.1\Func_Delegate.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\bin\Debug\netcoreapp3.1\Func_Delegate.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\bin\Debug\netcoreapp3.1\Func_Delegate.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.dll
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.pdb
+C:\Users\DELL\Desktop\Git Practice\C#\Func_Delegate\Func_Delegate\obj\Debug\netcoreapp3.1\Func_Delegate.genruntimeconfig.cache
