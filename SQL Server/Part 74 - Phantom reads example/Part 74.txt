@@ -1,0 +1,26 @@
+Create table tbl_Employees
+(
+    Id int primary key,
+    Name nvarchar(50)
+)
+Go
+
+Insert into tbl_Employees values(1,'Mark')
+Insert into tbl_Employees values(3, 'Sara')
+Insert into tbl_Employees values(100, 'Mary')
+
+
+--Transaction 1
+Set transaction isolation level serializable
+Begin Transaction
+Select * from tbl_Employees where Id between 1 and 3
+-- Do Some work
+waitfor delay '00:00:10'
+Select * from tbl_Employees where Id between 1 and 3
+Commit Transaction
+
+
+
+--Transaction 2
+
+Insert into tbl_Employees values(2, 'Marcus')
