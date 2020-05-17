@@ -1,0 +1,18 @@
+ADO.NET Introduction
+
+-ADO.NET is a set of classes (Framework), that can be used to interact with data sources like Databases and XML files. 
+-This data can, then be consumed in any .NET application. -ADO stands for Microsoft ActiveX Data Objects.
+
+What are .NET Data Providers?
+Databases only understand SQL. If a .NET application (Web, Windows, Console etc..) has to retrieve data, then the application needs to
+1. Connect to the Database
+2. Prepare an SQL Command
+3. Execute the Command
+4. Retrieve the results and display in the application
+
+
+Different .NET Data Providers
+Data Provider for SQL Server - System.Data.SqlClient
+Data Provider for Oracle - System.Data.OracleClient
+Data Provider for OLEDB - System.Data.OleDb
+Data Provider for ODBC - System.Data.Odbc
