@@ -1,0 +1,53 @@
+Web Pages is one of many programming models for creating ASP.NET web sites and web applications.
+
+Web Pages provides an easy way to combine HTML, CSS, and server code
+
+# Razor syntax for c#
+-C# code blocks are enclosed in @{ ... }
+-Inline expressions (variables or functions) start with @
+-Variables are declared with the var keyword, or the datatype (int, string, etc.)
+
+#  Razor syntax for VB
+-VB code blocks are enclosed in @Code ... End Code
+-Inline expressions (variables or functions) start with @
+-Variables are declared with the Dim keyword
+
+
+# Content block
+-@RenderPage() method is use  to import content from separate files
+# Layout Page
+ -To create a consistent look , layout page is used
+Syn - @{Layout="Layout.cshtml";}
+
+-With two ASP.NET tools, Content Blocks and Layout Pages, used to give  web applications a consistent look.
+
+- To prevent files from being browsed, mark file name starting with underscore(_)
+Eg. _AppStart.cshtml
+- Used to hide sensitive info
+
+#Logical Folder Structure
+-The "Account" folder contains logon and security files
+-The "App_Data" folder contains databases and data files
+-The "Images" folder contains images
+-The "Scripts" folder contains browser scripts
+-The "Shared" folder contains common files (like layout and style files)
+
+#Forms
+A form is a section of an HTML document where you put input controls (text boxes, check boxes, radio buttons, and pull-down lists).
+
+#Page object method
+Method				Description
+href			Builds a URL using the specified parameters
+RenderBody()		Renders the portion of a content page that is not within a named section (In layout pages)
+RenderPage(page)		Renders the content of one page within another page
+RenderSection		(section)	Renders the content of a named section (In layout pages)
+Write(object)		Writes the object as an HTML-encoded string
+WriteLiteral		Writes an object without HTML-encoding it first.
+
+#Some page object properties
+Property				Description
+IsPost			Returns true if the HTTP data transfer method used by the client is a POST request
+Layout			Gets or sets the path of a layout page
+Page			Provides property-like access to data shared between pages and layout pages
+Request			Gets the HttpRequest object for the current HTTP request
+Server			Gets the HttpServerUtility object that provides web-page processing methods
