@@ -1,0 +1,7 @@
+<!ELEMENT employee (IT_Department , HR_Department )>
+<!ELEMENT IT_Department (Web_Dev , Testing) >
+<!ELEMENT Web_Dev (name , gender)  >
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT gender (#PCDATA)*>
+<!ELEMENT Testing (name , gender) >
+<!ELEMENT HR_Department(name , gender) >
