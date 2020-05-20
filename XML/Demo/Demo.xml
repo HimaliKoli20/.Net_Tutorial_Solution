@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<!-- This is a comment -->
+<employee>
+	<IT_Department>
+		<name>Richa</name>
+		<gender>Female</gender>
+	</IT_Department>
+
+	<HR_Department>
+		<name>Harsh</name>
+		<gender>Male</gender>
+	</HR_Department>
+</employee>
