@@ -1,0 +1,141 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>Registration</h2>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="" method="post">
+        <div class="card-deck">
+            <div class="row">
+                <div class="card">
+                    <div class="card-header" style="text-align:center">
+                        <h2>Personal Details</h2><br />
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-12">
+                                <label for="First Name">First name:</label><br />
+                                <input id="Text1" type="text" name="FirstName" placeholder="First Name" required="required" />
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <label for="Last Name">Last Name:</label><br />
+                                <input id="Text1" type="text" name="LastName" placeholder="Last Name" required="required" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-9">
+                                <label for="Email">Email:</label><br />
+                                <input id="Text1" type="text" name="Email" placeholder="something@anything.com" required="required" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12">
+                                <label for="Phone Number">Phone Number:</label><br />
+                                <input id="Text1" type="text" name="PhoneNumber" placeholder="+91 " required="required" />
+                            </div>
+                            <div class="col-lg-4 col-md-12">
+                                <label for="DOB">DOB:</label><br />
+                                <input id="Text1" type="text" name="DOB" placeholder="YYYY-MM-DD" />
+                            </div>
+                            <div class="col-lg-4 col-md-12">
+                                <label for="Gender">Gender:</label><br />
+                                <input id="Radio1" type="radio" name="gender" value="Male" />
+                                <label for="male">Male</label><br>
+                                <input id="Radio1" type="radio" name="gender" value="Female" />
+                                <label for="Female">Female</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="row">
+                <div class="card">
+                    <div class="card-header" style="text-align:center">
+                        <h2>Educational Details</h2><br />
+                    </div>
+                    <div class="card-body">
+                        <div class="col-lg-4 col-md-12">
+                            <label for="Qualification">Qualification:</label><br />
+                            <input id="Radio1" type="radio" name="Qualification" value="BE" />
+                            <label for="BE">BE</label><br>
+                            <input id="Radio1" type="radio" name="Qualification" value="BTech" />
+                            <label for="Btech">BTech</label><br>
+                            <input id="Radio1" type="radio" name="Qualification" value="MTech" />
+                            <label for="MTech">Mtech</label><br>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <label for="Branch">Branch:</label><br />
+                            <input id="Radio1" type="radio" name="Branch" value="Computer" />
+                            <label for="Computer">Computer</label><br>
+                            <input id="Radio1" type="radio" name="Branch" value="Extc" />
+                            <label for="Extc">Extc</label><br>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <label for="yop">Year Of Passing:</label><br />
+                            <select name="yop" id="yop">
+                                <option value="SelectYear">Select Year</option>
+                                <option value="2016">2016</option>
+                                <option value="2017">2017</option>
+                                <option value="2018">2018</option>
+                                <option value="2019">2019</option>
+                                <option value="2020">2020</option>
+                                <option value="2021">2021</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="card">
+                    <div class="card-header" style="text-align:center">
+                        <h2>Other Details</h2><br />
+                    </div>
+                    <div class="card-body">
+                        <div class="col-lg-4 col-md-12">
+                            <label for="CurrentEmploymentStatus">Current Employment Status:</label><br />
+                            <input id="Radio1" type="radio" name="CurrentEmploymentStatus" value="Intern" />
+                            <label for="Intern">Intern</label><br>
+                            <input id="Radio1" type="radio" name="CurrentEmploymentStatus" value="Employed" />
+                            <label for="Employed">Employed</label><br>
+                            <input id="Radio1" type="radio" name="CurrentEmploymentStatus" value="Unemployed" />
+                            <label for="Unemployed">Unemployed</label><br>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <label for="TotalWorkExperience">Total Work Experience:</label><br />
+                            <input id="Text1" type="text" name="TotalWorkExperience" placeholder="Total Work Experience" />
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <label for="InterestedJobProfiles">Interested Job Profiles:</label><br />
+                            <input type="checkbox" id="JobProfile1" name="JobProfile1" value="Web Developer">
+                            <label for="JobProfile1">Web Developer</label><br>
+
+                            <input type="checkbox" id="JobProfile2" name="JobProfile2" value="Android App Dev">
+                            <label for="JobProfile2"> Android App Developer</label><br>
+
+                            <input type="checkbox" id="JobProfile3" name="JobProfile3" value="IOS">
+                            <label for="JobProfile3"> IOS Developer</label><br>
+
+                            <input type="checkbox" id="JobProfile4" name="JobProfile4" value="Network Eng">
+                            <label for="JobProfile4"> Network Engineer</label><br>
+
+                            <input type="checkbox" id="JobProfile5" name="JobProfile5" value="Tester">
+                            <label for="JobProfile5"> Tester</label><br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <input id="Submit1" type="submit" value="Submit" />
+        </div>
+    </form>
+</body>
+</html>
