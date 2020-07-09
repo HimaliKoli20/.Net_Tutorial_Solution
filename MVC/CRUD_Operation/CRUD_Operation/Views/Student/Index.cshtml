@@ -1,0 +1,31 @@
+﻿
+@model System.Data.DataTable
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>Student ID</th>
+        <th>Name</th>
+        <th>Phone Number</th>
+        <th>Marks</th>
+        <th></th>
+    </tr>
+    @for(int i = 0; i< Model.Rows.Count; i++)
+     {                    
+    <tr>
+        <td>@Model.Rows[i][0]</td>
+        <td>@Model.Rows[i][1]</td>
+        <td>@Model.Rows[i][2]</td>
+        <td>@Model.Rows[i][3]</td>
+        <td><a href="@Url.Action("Edit","Student", new{ @id = Model.Rows[i][0]})">Edit</a></td>
+        <td><input id="Submit1" type="submit" value="Delete" onclick="return confirm('Are you sure want to delete this?');" /></td>
+    </tr>
+     }
+</table>
+
+<a href="@Url.Action("Create","Student")">Add new entry</a>
