@@ -1,0 +1,42 @@
+﻿@model  List<CRUD.Models.Employee>
+@{
+    ViewBag.Title = "EmployeeList";
+}
+
+<h2>Employee List</h2>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Employee List</title>
+    </head>
+    <body>
+        @Html.ActionLink("Add new entry", "Employee")
+        <table class="table">
+            <tr>
+                <th>ID</th>
+                <th>Full Name</th>
+                <th>Email ID</th>
+                <th>Office Location</th>
+                <th>Department</th>
+                <th>Action</th>
+            </tr>
+
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <td>@emp.EmpID</td>
+                    <td>@emp.FullName</td>
+                    <td>@emp.EmailID</td>
+                    <td>@emp.OfficeLocation</td>
+                    <td>@emp.Department</td>
+                    <td>
+                        <a href="@Url.Action("Add","Employee",new {emp.EmpID,emp.FullName,emp.EmailID,emp.OfficeLocation,emp.Department })" class="btn btn-primary">Edit</a>
+                        <a href="@Url.Action("Delete","Employee",new {id = @emp.EmpID })" class="btn btn-danger">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </table>
+
+    </body>
+</html>
