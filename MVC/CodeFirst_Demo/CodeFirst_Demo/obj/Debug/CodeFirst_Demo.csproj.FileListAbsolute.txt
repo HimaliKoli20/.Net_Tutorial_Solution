@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\CodeFirst_Demo.exe.config
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\CodeFirst_Demo.exe
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\CodeFirst_Demo.pdb
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.csproj.CopyComplete
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.exe
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.pdb
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.Migrations.CreateUser.resources
+C:\Users\DELL\Desktop\My-World\CodeFirst_Demo\CodeFirst_Demo\obj\Debug\CodeFirst_Demo.csproj.GenerateResource.cache
