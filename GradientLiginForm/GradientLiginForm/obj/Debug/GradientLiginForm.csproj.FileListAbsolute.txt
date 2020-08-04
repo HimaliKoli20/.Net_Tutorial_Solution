@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\bin\Debug\GradientLiginForm.exe.config
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\bin\Debug\GradientLiginForm.exe
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\bin\Debug\GradientLiginForm.pdb
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.LoginForm.resources
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.Properties.Resources.resources
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.csproj.CopyComplete
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.exe
+C:\Users\DELL\Desktop\My-World\GradientLiginForm\GradientLiginForm\obj\Debug\GradientLiginForm.pdb
